@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "401362811744",
+    "firebase_url": "https://sfk-lifedrops.firebaseio.com",
+    "project_id": "sfk-lifedrops",
+    "storage_bucket": "sfk-lifedrops.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401362811744:android:a79731d6541fab1a",
+        "android_client_info": {
+          "package_name": "com.example.faris.lifedrops"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401362811744-gre6umguohkqqmsgqs3f0hus944a7edd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.faris.lifedrops",
+            "certificate_hash": "d5546feca04fdf62aac8a2e02cae023618b1b20f"
+          }
+        },
+        {
+          "client_id": "401362811744-oest008b7h9ol6ogvtlipgqjjctm38a8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM33X6P68l_n4j2J1b38h543LcGCi6Ogk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401362811744-oest008b7h9ol6ogvtlipgqjjctm38a8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
