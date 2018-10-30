@@ -53,7 +53,7 @@ public class HomeActivity extends AppCompatActivity {
                         }
                         else
                         {
-                            Toast.makeText(HomeActivity.this, "Error!", Toast.LENGTH_SHORT).show();
+                            Toast.makeText(HomeActivity.this, "Errokjhlr!", Toast.LENGTH_SHORT).show();
                         }
                     }
 
